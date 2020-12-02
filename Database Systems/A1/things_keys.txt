@@ -1,0 +1,4 @@
+-- Identify one or more columns that if used would present unique data that could be used to identify one and only one entity
+
+-- Manufacturer and Model
+-- id

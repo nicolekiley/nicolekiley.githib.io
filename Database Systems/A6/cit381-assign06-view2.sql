@@ -1,0 +1,1 @@
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `vw_memberblogs` AS select `m`.`first_name` AS `first_name`,`m`.`last_name` AS `last_name`,`m`.`member_id` AS `member_id` from (`member` `m` join `blog` `b` on((`b`.`blog_id` = `m`.`blog_id`)));

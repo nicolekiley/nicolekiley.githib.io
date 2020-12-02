@@ -1,0 +1,14 @@
+Part III - Database Uses in Music
+* From: https://en.wikipedia.org/wiki/List_of_online_music_databases
+
+1. ACRCloud: Music recognition and audio based music retrieval. Type: Relational
+2. AllMusic: Music information and reviews. Type: Relational
+3. The Freesound Project: Repository of Creative Commons-licensed audio samples. Type: Relational
+4. Genuis: Allows users to provide annotations and interpretation of song lyrics. Type: Relational
+5. Mutopia Project: Repository of free content sheet music. Type: Relational
+6. Quantone: Database of venues, photos, artists, participants, labels, etc. Type: Relational
+7. Rolldabeats: Drum N Bass music database, physical releases only. Type: Relational
+8. Wikifonia: Free lead sheets in MusicXML format, contributed and editable by users. Type: Relational
+9. WhoSampled: User-generated database of copmarison between original tracks and covers, or
+	songs that use samples. Type: Relational
+10. MAQAM: Largest database of Arabic and Middle Eastern music artists, tracks and albums. Type: Relational

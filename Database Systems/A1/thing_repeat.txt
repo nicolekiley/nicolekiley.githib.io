@@ -1,0 +1,6 @@
+-- Identify columns with repeating data
+
+-- Manufacturer
+-- Weight
+-- Shifters
+-- Price

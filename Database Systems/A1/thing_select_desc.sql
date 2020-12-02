@@ -1,0 +1,1 @@
+SELECT * from thing ORDER BY Price DESC;

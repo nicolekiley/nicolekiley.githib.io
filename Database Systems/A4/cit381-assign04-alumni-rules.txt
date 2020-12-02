@@ -1,0 +1,7 @@
+-- Alumni Rules
+
+-- RELATIONSHIP RULES
+-- Each member must have a blog
+-- Each blog must belong to one member
+-- Each blog can or cannot have many entries
+-- Entries can or cannot belong to a single blog

@@ -1,0 +1,20 @@
+Part II - Definitions
+
+database schema: collection of databases
+
+DBMS: database management system. Software that manages and uploads data.
+
+primary key: unique id to a single row.
+
+foreign key: Relational column(s) that are a primary key to another table.
+
+surrogate key: Unique key for an object in the database.
+
+entity integrity: System that ensures primary key is unique and does 
+	not match the primary key of other rows.
+    
+referential integrity: Validates the reference from a row in one table to a row in another table.
+	Must have matching primary key or be null.
+    
+weak entity: primary key created by foreign key and its attributes. Can not be an entity
+	on its own. 

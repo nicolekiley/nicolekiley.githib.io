@@ -1,0 +1,66 @@
+Postman
+
+a. GET
+
+i. http://localhost:8080/events
+
+ii.
+
+{
+    "rows": [
+        {
+            "event_id": 2,
+            "event_name": "class",
+            "event_datetime": "2020-11-12T18:15:00.000Z",
+            "other_details": "cit381"
+        },
+        {
+            "event_id": 3,
+            "event_name": "lab",
+            "event_datetime": "2020-11-12T20:00:00.000Z",
+            "other_details": "cit381"
+        },
+        {
+            "event_id": 4,
+            "event_name": "soccer",
+            "event_datetime": "2020-11-12T15:00:00.000Z",
+            "other_details": "last practice"
+        },
+        {
+            "event_id": 5,
+            "event_name": "study",
+            "event_datetime": "2020-11-12T20:00:00.000Z",
+            "other_details": "cit project"
+        },
+        {
+            "event_id": 1,
+            "event_name": "work",
+            "event_datetime": "2020-11-01T18:00:00.000Z",
+            "other_details": "chat shift"
+        }
+    ],
+    "err": ""
+}
+
+
+iii. http://localhost:8080/events/1
+
+b. POST
+
+i. http://localhost:8080/events
+
+ii. 
+
+{
+            "event_id": 6,
+            "event_name": "wics",
+            "event_datetime": "2020-11-11 17:30:00.000",
+            "other_details": "meeting"
+        }
+
+iii.
+
+{
+    "status": 0,
+    "err": ""
+}
