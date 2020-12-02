@@ -10,6 +10,6 @@
 - JavaScript ES6+ features
 - Basic Git and Unix Shell vocabulary
 
-![alt text](https://github.com/UO-CIT/project-1-nicolekiley/blob/master/octocatGithub.png "Title")
+![alt text](https://github.com/UO-CIT/project-1-nicolekiley/blob/master/images/octocatGithub.png "Title")
 
 [281 Website](https://pages.uoregon.edu/nkiley/281/ "281 Website")
